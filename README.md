@@ -1,2 +1,2 @@
 # WebDev_Assignment4
-website using bootstrap for a fake company
+Website creation using bootstrap for a fictional company (from the game Lethal Company, all rights reserved to the respective creator(s))
